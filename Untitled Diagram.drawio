@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-09-09T17:25:56.074Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36" etag="U3YXCbm8IQd0_Ne-MLOE" version="20.3.0" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2022-09-10T18:06:18.660Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36" etag="6bcmjGUgIjjE41rFoGEV" version="20.3.0" type="github" pages="3">
   <diagram id="5Zg_8bIlh_OO6-3hTcMJ" name="Page-1">
-    <mxGraphModel dx="12810" dy="2923" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="10388" dy="1647" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -711,6 +711,14 @@
         <mxCell id="chuRZqay8AleM1np-ZyH-20" value="- Falta migracion de campo nuevo y guardado en bd" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#000000;" vertex="1" parent="1">
           <mxGeometry x="310" y="910" width="320" height="30" as="geometry" />
         </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="1T0KKshw3F-d7QMAN9Gq" name="Arquitectura">
+    <mxGraphModel dx="1038" dy="547" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
       </root>
     </mxGraphModel>
   </diagram>
