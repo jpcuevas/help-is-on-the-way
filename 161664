@@ -1,1 +1,28 @@
-<mxfile host="app.diagrams.net" modified="2022-10-03T16:32:34.572Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36" version="20.4.0" etag="ajHm8hqksQnKhIZ9ypue" type="github"><diagram id="Ihc53zIYhql4x9-KhIS8">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-10-03T23:38:28.903Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36" etag="tWzz_KeZinHSZr4rezzk" version="20.4.0" type="github">
+  <diagram id="Ihc53zIYhql4x9-KhIS8" name="Page-1">
+    <mxGraphModel dx="1422" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="Xdg1R-4wuK0zuOGiF-LX-7" value="ATP" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="160" y="280" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Xdg1R-4wuK0zuOGiF-LX-8" value="VSA" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="520" y="280" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Xdg1R-4wuK0zuOGiF-LX-10" value="Extranjero" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+          <mxGeometry x="40" y="640" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Xdg1R-4wuK0zuOGiF-LX-11" value="No Coloca Pais de Nacionalidad" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="250" y="615" width="135" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="Xdg1R-4wuK0zuOGiF-LX-12" value="ATP3" style="swimlane;horizontal=0;" vertex="1" parent="1">
+          <mxGeometry x="30" y="780" width="1080" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="Xdg1R-4wuK0zuOGiF-LX-9" value="Cedual E" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="Xdg1R-4wuK0zuOGiF-LX-12">
+          <mxGeometry x="60" y="50" width="120" height="80" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
