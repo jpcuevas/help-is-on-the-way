@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-10-26T22:01:14.628Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" etag="J6w5oaVgqgqbcO0YQhbO" version="20.5.1" type="github" pages="5">
+<mxfile host="app.diagrams.net" modified="2022-10-26T22:12:21.034Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" etag="u5oiQd6NrVZ1pBr0Pxy4" version="20.5.1" type="github" pages="5">
   <diagram id="5Zg_8bIlh_OO6-3hTcMJ" name="Journey-Pricing">
     <mxGraphModel dx="10772" dy="1862" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -1377,7 +1377,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="gCVDt3xuiGOG0On6iIGU" name="Page-5">
-    <mxGraphModel dx="5504" dy="892" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="3938" dy="-12" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1464,7 +1464,7 @@
         <mxCell id="5f5z_4RhH7dsdLlfSyFe-194" style="edgeStyle=orthogonalEdgeStyle;rounded=0;jumpSize=9;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeColor=#FF0000;strokeWidth=4;" edge="1" parent="1" source="di-G8ysKnCAmPpTVoZr7-8" target="5f5z_4RhH7dsdLlfSyFe-191">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="di-G8ysKnCAmPpTVoZr7-8" value="ISignUpProcedureService" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
+        <mxCell id="di-G8ysKnCAmPpTVoZr7-8" value="ISignUpProcedureService" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#6d8764;strokeColor=#3A5431;fontColor=#ffffff;" parent="1" vertex="1">
           <mxGeometry x="60" y="1250" width="160" height="60" as="geometry" />
         </mxCell>
         <mxCell id="di-G8ysKnCAmPpTVoZr7-43" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="di-G8ysKnCAmPpTVoZr7-9" target="di-G8ysKnCAmPpTVoZr7-42" edge="1">
@@ -1654,7 +1654,7 @@
             <mxPoint x="1760" y="1620" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="di-G8ysKnCAmPpTVoZr7-48" value="ISignUpProcedureService" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
+        <mxCell id="di-G8ysKnCAmPpTVoZr7-48" value="ISignUpProcedureService" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#6d8764;strokeColor=#3A5431;fontColor=#ffffff;" parent="1" vertex="1">
           <mxGeometry x="1680" y="1520" width="160" height="60" as="geometry" />
         </mxCell>
         <mxCell id="di-G8ysKnCAmPpTVoZr7-50" value="ILogger&amp;lt;SignUpProcessService&amp;gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
@@ -1851,7 +1851,7 @@
             <mxPoint x="5815" y="1740" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="5f5z_4RhH7dsdLlfSyFe-35" value="ISignUpQueryService" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+        <mxCell id="5f5z_4RhH7dsdLlfSyFe-35" value="ISignUpQueryService" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#a0522d;strokeColor=#6D1F00;fontColor=#ffffff;" vertex="1" parent="1">
           <mxGeometry x="5750" y="1490" width="130" height="60" as="geometry" />
         </mxCell>
         <mxCell id="5f5z_4RhH7dsdLlfSyFe-209" style="edgeStyle=orthogonalEdgeStyle;rounded=0;jumpSize=9;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.423;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;strokeColor=#000000;strokeWidth=1;" edge="1" parent="1" source="5f5z_4RhH7dsdLlfSyFe-37" target="5f5z_4RhH7dsdLlfSyFe-208">
@@ -1875,7 +1875,7 @@
         <mxCell id="5f5z_4RhH7dsdLlfSyFe-38" value="IQuotationService" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
           <mxGeometry x="6030" y="1490" width="130" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="5f5z_4RhH7dsdLlfSyFe-43" value="IContentTypeProvider" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+        <mxCell id="5f5z_4RhH7dsdLlfSyFe-43" value="IContentTypeProvider" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#b0e3e6;strokeColor=#0e8088;" vertex="1" parent="1">
           <mxGeometry x="-420" y="1770" width="180" height="60" as="geometry" />
         </mxCell>
         <mxCell id="5f5z_4RhH7dsdLlfSyFe-45" value="IRestClient" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
@@ -1934,7 +1934,7 @@
         <mxCell id="5f5z_4RhH7dsdLlfSyFe-93" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="5f5z_4RhH7dsdLlfSyFe-61" target="5f5z_4RhH7dsdLlfSyFe-92">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="5f5z_4RhH7dsdLlfSyFe-61" value="IMixpanelService" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+        <mxCell id="5f5z_4RhH7dsdLlfSyFe-61" value="IMixpanelService" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#647687;strokeColor=#314354;fontColor=#ffffff;" vertex="1" parent="1">
           <mxGeometry x="500" y="1480" width="160" height="60" as="geometry" />
         </mxCell>
         <mxCell id="5f5z_4RhH7dsdLlfSyFe-62" value="IOptions&amp;lt;AppSettings&amp;gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -1992,7 +1992,7 @@
         <mxCell id="5f5z_4RhH7dsdLlfSyFe-94" value="IExternalServicesEndpoints" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="920" y="1770" width="160" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="5f5z_4RhH7dsdLlfSyFe-95" value="&lt;span style=&quot;text-align: left;&quot;&gt;IBus&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="5f5z_4RhH7dsdLlfSyFe-95" value="&lt;span style=&quot;text-align: left;&quot;&gt;IBus&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="750" y="1770" width="160" height="60" as="geometry" />
         </mxCell>
         <mxCell id="5f5z_4RhH7dsdLlfSyFe-96" value="IOptions&amp;lt;EmailSettings&amp;gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -2040,10 +2040,10 @@
         <mxCell id="5f5z_4RhH7dsdLlfSyFe-109" value="IPricingProviderFactory" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#6a00ff;strokeColor=#3700CC;fontColor=#ffffff;" vertex="1" parent="1">
           <mxGeometry x="-1150" y="1770" width="180" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="5f5z_4RhH7dsdLlfSyFe-110" value="IPdfProviderFactory" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+        <mxCell id="5f5z_4RhH7dsdLlfSyFe-110" value="IPdfProviderFactory" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fa6800;strokeColor=#C73500;fontColor=#000000;" vertex="1" parent="1">
           <mxGeometry x="-1320" y="1770" width="160" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="5f5z_4RhH7dsdLlfSyFe-111" value="ISignUpQueryService" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+        <mxCell id="5f5z_4RhH7dsdLlfSyFe-111" value="ISignUpQueryService" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#a0522d;strokeColor=#6D1F00;fontColor=#ffffff;" vertex="1" parent="1">
           <mxGeometry x="-1460" y="1770" width="130" height="60" as="geometry" />
         </mxCell>
         <mxCell id="5f5z_4RhH7dsdLlfSyFe-112" value="IPdfDataMappingService" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
@@ -2098,7 +2098,7 @@
         <mxCell id="5f5z_4RhH7dsdLlfSyFe-152" value="IDigitalSignService" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#a20025;strokeColor=#6F0000;fontColor=#ffffff;" vertex="1" parent="1">
           <mxGeometry x="2820" y="1760" width="110" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="5f5z_4RhH7dsdLlfSyFe-153" value="ISignUpProcedureService" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+        <mxCell id="5f5z_4RhH7dsdLlfSyFe-153" value="ISignUpProcedureService" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#6d8764;strokeColor=#3A5431;fontColor=#ffffff;" vertex="1" parent="1">
           <mxGeometry x="2940" y="1760" width="160" height="60" as="geometry" />
         </mxCell>
         <mxCell id="5f5z_4RhH7dsdLlfSyFe-157" value="1" style="rhombus;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;rounded=1;" vertex="1" parent="1">
@@ -2139,43 +2139,43 @@
             <mxPoint x="-1060" y="1770" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="5f5z_4RhH7dsdLlfSyFe-172" value="IRestClient" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+        <mxCell id="5f5z_4RhH7dsdLlfSyFe-172" value="IRestClient" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;gradientColor=#ffd966;" vertex="1" parent="1">
           <mxGeometry x="3280" y="1760" width="90" height="60" as="geometry" />
         </mxCell>
         <mxCell id="5f5z_4RhH7dsdLlfSyFe-174" value="Validar por que&amp;nbsp; IAcselRestService no esta en&amp;nbsp; IRestClient" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#76608a;strokeColor=#432D57;fontColor=#ffffff;" vertex="1" parent="1">
           <mxGeometry x="3410" y="2260" width="245" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="5f5z_4RhH7dsdLlfSyFe-175" value="IRestClient" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+        <mxCell id="5f5z_4RhH7dsdLlfSyFe-175" value="IRestClient" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;gradientColor=#ffd966;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="3400" y="1760" width="90" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="5f5z_4RhH7dsdLlfSyFe-176" value="IExternalServicesEndpoints" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+        <mxCell id="5f5z_4RhH7dsdLlfSyFe-176" value="IExternalServicesEndpoints" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="3520" y="1760" width="170" height="60" as="geometry" />
         </mxCell>
         <mxCell id="5f5z_4RhH7dsdLlfSyFe-177" value="IPricingAssaTermPlusMapping" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="3700" y="1760" width="170" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="5f5z_4RhH7dsdLlfSyFe-183" value="&amp;nbsp;ILogger&amp;lt;AsyncNotificationService&amp;gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+        <mxCell id="5f5z_4RhH7dsdLlfSyFe-183" value="&amp;nbsp;ILogger&amp;lt;AsyncNotificationService&amp;gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="3910" y="1760" width="200" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="5f5z_4RhH7dsdLlfSyFe-184" value="IBus" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+        <mxCell id="5f5z_4RhH7dsdLlfSyFe-184" value="IBus" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;gradientColor=#b3b3b3;strokeColor=#666666;" vertex="1" parent="1">
           <mxGeometry x="4120" y="1760" width="200" height="60" as="geometry" />
         </mxCell>
         <mxCell id="5f5z_4RhH7dsdLlfSyFe-186" value="Evaluar por que MessageSender&amp;nbsp; se usa en otreo lugares si se puede mover a esta clase" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#76608a;strokeColor=#432D57;fontColor=#ffffff;" vertex="1" parent="1">
           <mxGeometry x="3662.5" y="2260" width="245" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="5f5z_4RhH7dsdLlfSyFe-187" value="IContentTypeProvider" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+        <mxCell id="5f5z_4RhH7dsdLlfSyFe-187" value="IContentTypeProvider" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="4360" y="1760" width="130" height="60" as="geometry" />
         </mxCell>
         <mxCell id="5f5z_4RhH7dsdLlfSyFe-189" value="3" style="rhombus;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="5185" y="1740" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="5f5z_4RhH7dsdLlfSyFe-191" value="ISignUpProcedureService" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+        <mxCell id="5f5z_4RhH7dsdLlfSyFe-191" value="ISignUpProcedureService" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#6d8764;strokeColor=#3A5431;fontColor=#ffffff;" vertex="1" parent="1">
           <mxGeometry x="4850" y="1760" width="150" height="60" as="geometry" />
         </mxCell>
         <mxCell id="5f5z_4RhH7dsdLlfSyFe-201" style="edgeStyle=orthogonalEdgeStyle;rounded=0;jumpSize=9;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#000000;strokeWidth=1;" edge="1" parent="1" source="5f5z_4RhH7dsdLlfSyFe-192" target="5f5z_4RhH7dsdLlfSyFe-200">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="5f5z_4RhH7dsdLlfSyFe-192" value="ISignUpQueryService" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+        <mxCell id="5f5z_4RhH7dsdLlfSyFe-192" value="ISignUpQueryService" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#a0522d;strokeColor=#6D1F00;fontColor=#ffffff;" vertex="1" parent="1">
           <mxGeometry x="5040" y="1760" width="130" height="60" as="geometry" />
         </mxCell>
         <mxCell id="5f5z_4RhH7dsdLlfSyFe-198" value="1" style="rhombus;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;rounded=1;" vertex="1" parent="1">
@@ -2209,7 +2209,7 @@
         <mxCell id="5f5z_4RhH7dsdLlfSyFe-208" value="ISignUpLifeDbContext" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="5900" y="1750" width="130" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="5f5z_4RhH7dsdLlfSyFe-210" value="IMixpanelService" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+        <mxCell id="5f5z_4RhH7dsdLlfSyFe-210" value="IMixpanelService" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#647687;strokeColor=#314354;fontColor=#ffffff;" vertex="1" parent="1">
           <mxGeometry x="6040" y="1750" width="160" height="60" as="geometry" />
         </mxCell>
         <mxCell id="5f5z_4RhH7dsdLlfSyFe-212" value="Elservicio de Mixpanel envia un mensaje al bus evaluar si se puede&amp;nbsp; pasar a servicios relacionados de cola" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#76608a;strokeColor=#432D57;fontColor=#ffffff;" vertex="1" parent="1">
