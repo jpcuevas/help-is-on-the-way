@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-02-17T21:16:12.726Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="F2HITcSEI2eZ9WziIsMt" version="20.8.20" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2023-02-17T21:21:04.412Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="NMxR6j31d_tpK5tVebuX" version="20.8.20" type="github" pages="2">
   <diagram name="pricing-tx-events" id="xJE2bCt4W-XBajtunEXg">
     <mxGraphModel dx="4261" dy="2602" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -568,10 +568,10 @@
           <mxGeometry x="1070" y="504" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="QglasnYvX9pA-cMBZ8ON-98" value="Create Policy" style="swimlane;horizontal=1;whiteSpace=wrap;html=1;fontSize=15;" vertex="1" parent="1">
-          <mxGeometry x="2007" y="2025" width="640.5" height="200" as="geometry" />
+          <mxGeometry x="1870" y="2030" width="1370" height="200" as="geometry" />
         </mxCell>
         <mxCell id="QglasnYvX9pA-cMBZ8ON-99" value="Pay Policy or Get Yappy Url" style="swimlane;horizontal=1;whiteSpace=wrap;html=1;fontSize=15;" vertex="1" parent="1">
-          <mxGeometry x="2008.5" y="2265" width="640.5" height="200" as="geometry" />
+          <mxGeometry x="1870" y="2280" width="1370" height="200" as="geometry" />
         </mxCell>
         <mxCell id="QglasnYvX9pA-cMBZ8ON-100" value="&lt;span style=&quot;font-size: 15px;&quot;&gt;Un solo metodo servicetiene estas 3 responsabilidades pero antes valida que la emision no este en estado Paid o Printed&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="2481" y="1020" width="240" height="140" as="geometry" />
