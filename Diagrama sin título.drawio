@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-02-24T21:29:36.278Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="yhRpY8PO6IUnBN8lgH-Q" version="20.8.23" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2023-02-24T21:32:32.996Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="bONJ-OT6p2psxo9pWbMT" version="20.8.23" type="github" pages="4">
   <diagram name="pricing-tx-events" id="xJE2bCt4W-XBajtunEXg">
     <mxGraphModel dx="4654" dy="2872" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -719,27 +719,27 @@
     </mxGraphModel>
   </diagram>
   <diagram id="Vyp04UUDGZU6kbzptftb" name="Página-4">
-    <mxGraphModel dx="1050" dy="1765" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1050" dy="596" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="EqALS_3CL8pj6neOiBwi-1" value="Foto" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="710" y="330" width="80" height="80" as="geometry" />
+          <mxGeometry x="520" y="240" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="EqALS_3CL8pj6neOiBwi-2" value="lector de Barra" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="1">
-          <mxGeometry x="690" y="440" width="120" height="60" as="geometry" />
+          <mxGeometry x="600" y="20" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="EqALS_3CL8pj6neOiBwi-3" value="Nombre" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="690" y="550" width="120" height="30" as="geometry" />
+          <mxGeometry x="500" y="340" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="EqALS_3CL8pj6neOiBwi-4" value="Precio" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="690" y="620" width="120" height="30" as="geometry" />
+          <mxGeometry x="500" y="390" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="EqALS_3CL8pj6neOiBwi-6" value="App-Agon-Pricing" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry width="240" height="40" as="geometry" />
+          <mxGeometry y="20" width="240" height="40" as="geometry" />
         </mxCell>
         <mxCell id="EqALS_3CL8pj6neOiBwi-7" value="&lt;h1 style=&quot;font-size: 21px;&quot;&gt;Objetivo&lt;/h1&gt;&lt;p&gt;Llevar las compras de lo que se esta metiendo en la carretilla y mostrar el total que llevan, Permitir agregar y quitar los productos fácilmente&lt;/p&gt;" style="text;html=1;strokeColor=#6c8ebf;fillColor=#dae8fc;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="280" width="210" height="130" as="geometry" />
+          <mxGeometry x="320" y="20" width="210" height="130" as="geometry" />
         </mxCell>
         <mxCell id="EqALS_3CL8pj6neOiBwi-8" value="Comprador" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;fontSize=21;" vertex="1" parent="1">
           <mxGeometry x="130" y="240" width="30" height="60" as="geometry" />
@@ -765,10 +765,10 @@
         <mxCell id="EqALS_3CL8pj6neOiBwi-16" value="guarda ubicación" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;fontSize=21;" vertex="1" parent="EqALS_3CL8pj6neOiBwi-10">
           <mxGeometry y="180" width="190" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="EqALS_3CL8pj6neOiBwi-18" value="Agregar nombre" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;fontSize=21;" vertex="1" parent="EqALS_3CL8pj6neOiBwi-10">
+        <mxCell id="EqALS_3CL8pj6neOiBwi-18" value="guardar fecha" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;fontSize=21;" vertex="1" parent="EqALS_3CL8pj6neOiBwi-10">
           <mxGeometry y="210" width="190" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="EqALS_3CL8pj6neOiBwi-19" value="Agregar nombre" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;fontSize=21;" vertex="1" parent="EqALS_3CL8pj6neOiBwi-10">
+        <mxCell id="EqALS_3CL8pj6neOiBwi-19" value="???????????" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;fontSize=21;" vertex="1" parent="EqALS_3CL8pj6neOiBwi-10">
           <mxGeometry y="240" width="190" height="30" as="geometry" />
         </mxCell>
         <mxCell id="EqALS_3CL8pj6neOiBwi-20" value="Ideal" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=21;" vertex="1" parent="1">
@@ -779,6 +779,15 @@
             <mxPoint x="390" y="410" as="sourcePoint" />
             <mxPoint x="440" y="360" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="EqALS_3CL8pj6neOiBwi-22" value="&lt;h1 style=&quot;font-size: 21px;&quot;&gt;Objetivo&lt;/h1&gt;&lt;p&gt;Llevar las compras de lo que se esta metiendo en la carretilla y mostrar el total que llevan, Permitir agregar y quitar los productos fácilmente&lt;/p&gt;" style="text;html=1;strokeColor=#6c8ebf;fillColor=#dae8fc;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="40" y="580" width="210" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="EqALS_3CL8pj6neOiBwi-23" value="Marca" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="500" y="440" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="EqALS_3CL8pj6neOiBwi-24" value="Modelo" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="500" y="490" width="120" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
